@@ -1,0 +1,11 @@
+v 1
+
+d Brazilian business calendar, Jan. 1, 1980 through Dec. 31, 2021
+d Based on calendar in QuantLib.
+d
+d KW: business
+d KW: calendar
+d KW: brazil
+d
+
+f brazil.stbcal
